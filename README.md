@@ -33,7 +33,7 @@ Como dizia a sábia Atendente Natália,
 ---
 ##  🚩 Status do Projeto:
 <h3 align="center">
-    Finalizado 🎉
+    Refatorando 🚧
 </h3>
 
 ---
